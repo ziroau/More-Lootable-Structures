@@ -1,3 +1,8 @@
+<head>
+<link rel="shortcut icon" type="image/png" href="{{ 'favicon.ico' | relative_url }}" />
+</head>
+
+
 ![Image](https://lootablestructures.xotaz.xyz/graphics/frontpage.png)
 ## _This mod brings new structures full of random loot depending on rarity!_
 ---

@@ -1,2 +1,5 @@
-theme: jekyll-theme-midnight
+#Site settings
 title: More Lootable Structures 1.16.5
+
+#Build Settings
+theme: jekyll-theme-midnight
