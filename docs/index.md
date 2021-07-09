@@ -1,4 +1,4 @@
-![Image](https://static.planetminecraft.com/files/resource_media/screenshot/14614892-frontpage.png)
+![Image](https://lootablestructures.xotaz.xyz/graphics/frontpage.png)
 ## _This mod brings new structures full of random loot depending on rarity!_
 ---
 ### Features
@@ -13,9 +13,8 @@
 
 ### Downloads
 ##### 1.16.5 - v1.1.0
-- [PlanetMinecraft](https://duckduckgo.com "1.16.5 v1.1.0")
+- [PlanetMinecraft](https://www.planetminecraft.com/mod/1-16-5-more-lootable-buildings-v1-0/ "1.16.5 v1.1.0")
 - [GitHub](https://lootablestructures.xotaz.xyz/lootablestructures-1-16-5-1-0.jar "1.16.5 v1.0")
-- [CurseForge - Coming soon](https://127.0.0.1/)
 
 ### Older Mod versions
 ##### 1.16.5 - v1.0.0
@@ -31,6 +30,7 @@
 
    [Github Issue Tracker]: <https://github.com/Xotaz/More-Lootable-Structures/issues>
    [To Do list]: <https://trello.com/b/klrJ2XNX/more-lootable-resources>
+   [Discord]: <https://discord.gg>
  
 ---
 ### Screenshots
