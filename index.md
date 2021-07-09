@@ -12,13 +12,9 @@
 ---
 
 ### Downloads
-##### 1.16.4
-* [PlanetMinecraft](https://duckduckgo.com "1.16.6")
-* [CurseForge Coming soon](https://127.0.0.1/)
+##### 1.16.5
+* [PlanetMinecraft](https://duckduckgo.com "1.16.5 vv1.0")
+* [GitHub](https://lootablestructures.xotaz.xyz/lootablestructures-1-16-5-1-0.jar "1.16.5 v1.0")
+* [CurseForge - Coming soon](https://127.0.0.1/)
 
-##
-[//]:# (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-
-[//]: #![Image](https://static.planetminecraft.com/files/resource_media/screenshot/14614892-frontpage.png)
+this page is currently WIP
