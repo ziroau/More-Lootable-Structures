@@ -19,7 +19,9 @@
 
 ### Older Mod versions
 ##### 1.16.5 - v1.0.0
+
 * [GitHub](https://github.com/Xotaz/More-Lootable-Structures/releases/download/1.16.5/LootableStructures-1.16.5-v1-0.jar "1.16.5 v1.0.0")
+
 ---
 ### Other links
 ##### [To Do List]
