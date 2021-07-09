@@ -30,3 +30,10 @@
    [Github Issue Tracker]: <https://github.com/Xotaz/More-Lootable-Structures/issues>
    [To Do list]: <https://trello.com/b/klrJ2XNX/more-lootable-resources>
 
+   
+---
+### Screenshots
+![Image](https://lootablestructures.xotaz.xyz/graphics/1.png)
+![Image](https://lootablestructures.xotaz.xyz/graphics/2.png)
+![Image](https://lootablestructures.xotaz.xyz/graphics/3.png)
+![Image](https://lootablestructures.xotaz.xyz/graphics/4.png)
