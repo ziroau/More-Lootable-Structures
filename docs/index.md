@@ -1,3 +1,15 @@
+<head>
+   <link rel="apple-touch-icon" sizes="180x180" href="/graphics/ico/apple-touch-icon.png">
+   <link rel="icon" type="image/png" sizes="32x32" href="/graphics/ico/favicon-32x32.png">
+   <link rel="icon" type="image/png" sizes="16x16" href="/graphics/ico/favicon-16x16.png">
+   <link rel="manifest" href="/graphics/ico/site.webmanifest">
+   <link rel="mask-icon" href="/graphics/ico/safari-pinned-tab.svg" color="#5bbad5">
+   <link rel="shortcut icon" href="/graphics/ico/favicon.ico">
+   <meta name="msapplication-TileColor" content="#00a300">
+   <meta name="msapplication-config" content="/browserconfig.xml">
+   <meta name="theme-color" content="#ffffff">
+</head>
+
 ![Image](https://lootablestructures.xotaz.xyz/graphics/frontpage.png)
 ## _This mod brings new structures full of random loot depending on rarity!_
 ---
@@ -39,15 +51,3 @@
 ![Image](https://lootablestructures.xotaz.xyz/graphics/3.png)
 ![Image](https://lootablestructures.xotaz.xyz/graphics/4.png)
 
-
-<head>
-   <link rel="apple-touch-icon" sizes="180x180" href="/graphics/ico/apple-touch-icon.png">
-   <link rel="icon" type="image/png" sizes="32x32" href="/graphics/ico/favicon-32x32.png">
-   <link rel="icon" type="image/png" sizes="16x16" href="/graphics/ico/favicon-16x16.png">
-   <link rel="manifest" href="/graphics/ico/site.webmanifest">
-   <link rel="mask-icon" href="/graphics/ico/safari-pinned-tab.svg" color="#5bbad5">
-   <link rel="shortcut icon" href="/graphics/ico/favicon.ico">
-   <meta name="msapplication-TileColor" content="#00a300">
-   <meta name="msapplication-config" content="/graphics/ico/browserconfig.xml">
-   <meta name="theme-color" content="#ffffff">
-</head>
